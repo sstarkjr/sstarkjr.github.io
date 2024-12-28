@@ -8,6 +8,7 @@ permalink: /photography/
 Welcome to the Photography section!
 
 <p>Explore some of my favorite photos.</p>
+<p class="note">All photos were taken by me using either DSLR or drone photography.</p>
 
 <div class="gallery">
   <!-- Photo 1 -->
@@ -52,13 +53,17 @@ Welcome to the Photography section!
 
   <!-- Photo 6 -->
   <div class="photo">
-    <img class="photography-image" src="/images/photography/IMG_3465.jpeg" alt="Camera capturing sunrise from the Hancock, Chicago">
-    <p>Sunrise from the Hancock, Chicago</p>
+    <a href="/images/photography/IMG_3465.jpeg" data-lightbox="gallery" data-title="Camera capturing sunrise from the Hancock, Chicago">
+      <img class="photography-image" src="/images/photography/IMG_3465.jpeg" alt="Camera capturing sunrise from the Hancock, Chicago">
+    </a>
+    <p>Camera capturing sunrise from the Hancock, Chicago</p>
   </div>
 
-  <!-- Photo 7 -->  
+  <!-- Photo 7 -->
   <div class="photo">
-    <img class="photography-image" src="/images/photography/DSC_3713-Edit-Edit.jpeg" alt="Silhouettes and sunrise at the Hancock, Chicago">
+    <a href="/images/photography/DSC_3713-Edit-Edit.jpeg" data-lightbox="gallery" data-title="Silhouettes and sunrise at the Hancock, Chicago">
+      <img class="photography-image" src="/images/photography/DSC_3713-Edit-Edit.jpeg" alt="Silhouettes and sunrise at the Hancock, Chicago">
+    </a>
     <p>Silhouettes and sunrise at the Hancock, Chicago</p>
   </div>
-</div>  
+</div>

@@ -1,11 +1,12 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 ## **What I Do**
 - **Data Science & AI**: I specialize in machine learning, natural language processing, and retrieval-augmented generation (RAG) techniques. My work often involves using large language models (LLMs) to solve complex business problems.
@@ -21,12 +22,13 @@ redirect_from:
 ### Photography:
 - Explore my curated collection of favorite shots, from frozen Lake Michigan to the vibrant sunsets of Captiva Island.  
   [View Portfolio](../photography/)
+
 ---
 
 ## **Let’s Connect**
 I’m always open to collaboration and sharing ideas. Feel free to connect with me via:
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [Your GitHub Profile](#)
+<!-- - **LinkedIn**: [Your LinkedIn Profile](#) -->
+<!-- - **GitHub**: [Your GitHub Profile](#) -->
 - **Medium Blog**: [Your Medium Blog](https://medium.com/@stephensaidso)
 
 ---

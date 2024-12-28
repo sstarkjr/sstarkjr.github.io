@@ -33,4 +33,21 @@ Welcome to the Photography section!
     </a>
     <p>Ice 'pancakes' on a frozen Lake Michigan</p>
   </div>
+
+
+  <!-- Photo 4 -->
+  <div class="photo">
+    <a href="/images/photography/DSC_9695.jpg" data-lightbox="gallery" data-title="Cloud Gate (The Bean) in Chicago">
+      <img class="photography-image" src="/images/photography/DSC_9695.jpg" alt="Cloud Gate (The Bean) in Chicago">
+    </a>
+    <p>Cloud Gate (The Bean) in Chicago</p>
+  </div>
+
+  <!-- Photo 5 -->
+  <div class="photo">
+    <a href="/images/photography/IMG_0730-1.jpg" data-lightbox="gallery" data-title="Close-up of a vibrant green leaf">
+      <img class="photography-image" src="/images/photography/IMG_0730-1.jpg" alt="Close-up of a vibrant green leaf">
+    </a>
+    <p>Close-up of a vibrant green leaf</p>
+  </div>
 </div>

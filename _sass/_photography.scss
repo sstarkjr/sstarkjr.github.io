@@ -6,3 +6,45 @@
     border: 2px solid #ccc; /* Example: Add a border to photography images */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Example: Add a shadow */
 }
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+  
+    .photo {
+      width: 300px;
+      text-align: center;
+  
+      img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+  
+      p {
+        margin-top: 8px;
+        font-size: 16px;
+        color: #555;
+      }
+    }
+  }
+  
+  .photo img {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  
+    &:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+  }
+  
+  .photo p {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #888;
+    font-style: italic;
+  }
+  

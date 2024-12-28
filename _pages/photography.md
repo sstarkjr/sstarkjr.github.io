@@ -34,7 +34,6 @@ Welcome to the Photography section!
     <p>Ice 'pancakes' on a frozen Lake Michigan</p>
   </div>
 
-
   <!-- Photo 4 -->
   <div class="photo">
     <a href="/images/photography/DSC_9695.jpg" data-lightbox="gallery" data-title="Cloud Gate (The Bean) in Chicago">
@@ -52,16 +51,14 @@ Welcome to the Photography section!
   </div>
 
   <!-- Photo 6 -->
-  <div class="gallery">
-    <div class="photo">
-      <img class="photography-image" src="/images/photography/IMG_3465.jpeg" alt="Camera capturing sunrise from the Hancock, Chicago">
-      <p>Sunrise from the Hancock, Chicago</p>
-    </div>
+  <div class="photo">
+    <img class="photography-image" src="/images/photography/IMG_3465.jpeg" alt="Camera capturing sunrise from the Hancock, Chicago">
+    <p>Sunrise from the Hancock, Chicago</p>
+  </div>
 
   <!-- Photo 7 -->  
-  <div class="gallery">
-    <div class="photo">
-      <img class="photography-image" src="/images/photography/DSC_3713-Edit-Edit.jpeg" alt="Silhouettes and sunrise at the Hancock, Chicago">
-      <p>Silhouettes and sunrise at the Hancock, Chicago</p>
+  <div class="photo">
+    <img class="photography-image" src="/images/photography/DSC_3713-Edit-Edit.jpeg" alt="Silhouettes and sunrise at the Hancock, Chicago">
+    <p>Silhouettes and sunrise at the Hancock, Chicago</p>
   </div>
-</div>
+</div>  

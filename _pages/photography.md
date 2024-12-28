@@ -5,10 +5,12 @@ permalink: /photography/
 ---
 
 # Photography
-Welcome to the Photography section!
+<h2 class="intro-title">Welcome to the Photography Section</h2>
 
-<p>Explore some of my favorite photos.</p>
-<p class="note">All photos were taken by me using either DSLR or drone photography.</p>
+<p class="intro-text">
+Discover a curated selection of my favorite photos, showcasing moments captured through the lens of my DSLR and drone. Each image reflects my passion for digital photography.
+</p>
+
 
 <div class="gallery">
   <!-- Photo 1 -->

@@ -11,7 +11,7 @@ Welcome to the Photography section!
 
 <div class="gallery">
   <div class="photo">
-    <img src="/images/photography/DJI_0946.jpg" alt="Sunset over the ocean">
+    <img class="photography-image" src="/images/photography/DJI_0946.jpg" alt="Sunset over the ocean">
     <p>Sunset over the ocean</p>
   </div>
 

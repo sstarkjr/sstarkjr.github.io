@@ -11,7 +11,6 @@ permalink: /photography/
 Discover a curated selection of my favorite photos, showcasing moments captured through the lens of my DSLR and drone. Each image reflects my passion for digital photography.
 </p>
 
-
 <div class="gallery">
   <!-- Photo 1 -->
   <div class="photo">
@@ -67,5 +66,21 @@ Discover a curated selection of my favorite photos, showcasing moments captured 
       <img class="photography-image" src="/images/photography/DSC_3713-Edit-Edit.jpeg" alt="Silhouettes and sunrise at the Hancock, Chicago">
     </a>
     <p>Silhouettes and sunrise at the Hancock, Chicago</p>
+  </div>
+
+  <!-- Additional Photo 8 -->
+  <div class="photo">
+    <a href="/images/photography/DSC_0528_adj.jpeg" data-lightbox="gallery" data-title="Scenic view of Lake Michigan">
+      <img class="photography-image" src="/images/photography/DSC_0528_adj.jpeg" alt="Scenic view of Lake Michigan">
+    </a>
+    <p>Scenic view of Lake Michigan</p>
+  </div>
+
+  <!-- Additional Photo 9 -->
+  <div class="photo">
+    <a href="/images/photography/Photo_6554508_DJI_908_jpg_11558064_0_20221119154502_photo.jpg" data-lightbox="gallery" data-title="Aerial shot of Chicago’s skyline">
+      <img class="photography-image" src="/images/photography/Photo_6554508_DJI_908_jpg_11558064_0_20221119154502_photo.jpg" alt="Aerial shot of Chicago’s skyline">
+    </a>
+    <p>Aerial shot of Chicago’s skyline</p>
   </div>
 </div>

@@ -1,9 +1,8 @@
-# Update the content of 'inspiration.html' to include the additional blurb
-updated_inspiration_page_content = """
 ---
-layout: page
+layout: default # page
 title: "Inspiration"
 permalink: /inspiration/
+author_profile: true
 ---
 
 <h1>Recreate This Website</h1>
@@ -11,14 +10,3 @@ permalink: /inspiration/
 <p><a href="https://youtu.be/g6AJ9qPPoyc?feature=shared" target="_blank">Watch the YouTube Tutorial</a></p>
 
 <p>Setting up this website is incredibly easy, thanks to the clear and detailed instructions in the tutorial. I often come across blogs with beautiful templates but no guidance on how to recreate them. That's why I want to encourage you to give it a try. With the tutorial's help, you'll have your own version of this site up and running in no time!</p>
-"""
-
-# Write the updated content to the file
-with open(inspiration_page_path, 'w') as file:
-    file.write(updated_inspiration_page_content)
-
-# Confirm the file has been updated
-with open(inspiration_page_path, 'r') as file:
-    updated_content = file.read()
-
-updated_content

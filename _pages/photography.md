@@ -5,10 +5,10 @@ permalink: /photography/
 ---
 
 # Photography
-<h2 class="intro-title">Welcome to the Photography Section</h2>
+<h2 class="intro-title">Welcome to My Photography</h2>
 
 <p class="intro-text">
-Here's a selection of some of my favorite photos, showcasing moments captured through the lens of my DSLR and drone. Digital photography has long been a hobby of mine. 
+Photography has always been one of my favorite ways to explore and document the world around me. Whether by drone or by DSLR, digital photography has long been a hobby of mine. Below are some of my favorite moments I've captured.
 </p>
 
 <div class="gallery">
@@ -70,15 +70,15 @@ Here's a selection of some of my favorite photos, showcasing moments captured th
 
   <!-- Additional Photo 8 -->
   <div class="photo">
-    <a href="/images/photography/DSC_0528_adj.jpeg" data-lightbox="gallery" data-title="Scenic view of Lake Michigan">
-      <img class="photography-image" src="/images/photography/DSC_0528_adj.jpeg" alt="Scenic view of Lake Michigan">
+    <a href="/images/photography/DSC_0528_adj.jpeg" data-lightbox="gallery" data-title="Train tracks outside Marfa, Texas">
+      <img class="photography-image" src="/images/photography/DSC_0528_adj.jpeg" alt="Train tracks outside Marfa, Texas">
     </a>
-    <p>Traintracks outside Marfa, Texas</p>
+    <p>Train tracks outside Marfa, Texas</p>
   </div>
 
   <!-- Additional Photo 9 -->
   <div class="photo">
-    <a href="/images/photography/frozen_chicago.jpeg" data-lightbox="gallery" data-title="Aerial shot of Chicago’s skyline">
+    <a href="/images/photography/frozen_chicago.jpeg" data-lightbox="gallery" data-title="Subzero temps: Aerial shot of Chicago’s skyline">
       <img class="photography-image" src="/images/photography/frozen_chicago.jpeg" alt="Subzero temps: Aerial shot of Chicago’s skyline">
     </a>
     <p>Subzero temps: Aerial shot of Chicago’s skyline</p>

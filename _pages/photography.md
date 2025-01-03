@@ -79,7 +79,7 @@ Discover a curated selection of my favorite photos, showcasing moments captured 
   <!-- Additional Photo 9 -->
   <div class="photo">
     <a href="/images/photography/frozen_chicago.jpeg" data-lightbox="gallery" data-title="Aerial shot of Chicago’s skyline">
-      <img class="photography-image" src="/images/photography/Photo_6554508_DJI_908_jpg_11558064_0_20221119154502_photo.jpg" alt="Subzero temps: Aerial shot of Chicago’s skyline">
+      <img class="photography-image" src="/images/photography/frozen_chicago.jpeg" alt="Subzero temps: Aerial shot of Chicago’s skyline">
     </a>
     <p>Subzero temps: Aerial shot of Chicago’s skyline</p>
   </div>

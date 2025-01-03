@@ -1,6 +1,6 @@
 ---
 title: "Customer Segmentation Analysis"
-excerpt: "Leveraging clustering algorithms to segment customers based on purchasing behavior.<br/><img src='/images/customer_segmentation_thumbnail.png'>"
+excerpt: "Leveraging clustering algorithms to segment customers based on purchasing behavior.<br/><img src='/images/clusters-visualization.png'>"
 collection: portfolio
 ---
 
@@ -13,7 +13,7 @@ This project demonstrates the use of clustering techniques like K-Means and DBSC
 - **Insights**: Identifying distinct customer segments and actionable strategies.
 
 ### Explore the Notebook
-[Click here to view the notebook](portfolio/customer_segmentation.html)
+[Click here to view the notebook](portfolio/portfolio-customer-segmentation.html)
 
 ### Highlights
 - **Feature Engineering**: RFM analysis to define customer behavior metrics.

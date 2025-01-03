@@ -19,6 +19,12 @@ Photography has always been one of my favorite ways to explore and document the 
       <img class="photography-image" src="/images/photography/DJI_0946.jpg" alt="Sunset over the ocean">
     </a>
     <p>Sunset over the ocean</p>
+    <button onclick="toggleDetails('photo1-details')" class="details-btn">Details</button>
+    <div id="photo1-details" class="details-content" style="display: none;">
+      <p><strong>Camera Settings:</strong> f/8, 1/200s, ISO 100</p>
+      <p><strong>Location:</strong> Miami Beach, FL</p>
+      <p><strong>Story:</strong> This photo was taken during a peaceful evening stroll on Miami Beach. The calm waves and the glowing orange sunset created a serene moment that felt almost otherworldly. The person in the frame is a passerby who unknowingly added a sense of scale to the vast ocean and sky.</p>
+    </div>
   </div>
 
   <!-- Photo 2 -->

@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 ## **What I Do**
 ### **Data Science & AI**
@@ -25,7 +23,7 @@ I create vivid imagery through **DSLR and drone photography**, focusing on **lan
   Extracted insights from 3,000 reviews using cutting-edge LLMs. Explore how AI can revolutionize customer feedback analysis.
 
 ### **Photography**
-- **[View Portfolio](../photography/)**  
+- **[View MyPhotography](../photography/)**  
   Explore my curated collection of favorite shots, from the serene beauty of **frozen Lake Michigan** to the vibrant sunsets of **Captiva Island**.
 
 ---

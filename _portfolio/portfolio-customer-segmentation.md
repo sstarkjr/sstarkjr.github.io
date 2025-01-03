@@ -13,7 +13,7 @@ This project demonstrates the use of clustering techniques like K-Means and DBSC
 - **Insights**: Identifying distinct customer segments and actionable strategies.
 
 ### Explore the Notebook
-[Click here to view the notebook](/portfolio/customer_segmentation.html){:target="_blank"}
+[Click here to view the notebook in a new tab](/portfolio/customer_segmentation.html){:target="_blank"}
 
 ### Highlights
 - **Feature Engineering**: RFM analysis to define customer behavior metrics.

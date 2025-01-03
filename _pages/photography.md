@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Photography"
+author_profile: true
 permalink: /photography/
 ---
 

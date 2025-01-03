@@ -2,6 +2,10 @@
 title: "Customer Segmentation Analysis"
 excerpt: "Leveraging clustering algorithms to segment customers based on purchasing behavior.<br/><img src='/images/clusters-visualization.png'>"
 collection: portfolio
+tags:
+  - Unsupervised Learning
+  - Clustering
+  - Python
 ---
 
 ## Customer Segmentation Analysis

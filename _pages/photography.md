@@ -8,7 +8,7 @@ permalink: /photography/
 <h2 class="intro-title">Welcome to the Photography Section</h2>
 
 <p class="intro-text">
-Discover a curated selection of my favorite photos, showcasing moments captured through the lens of my DSLR and drone. Each image reflects my passion for digital photography.
+Here's a selection of some of my favorite photos, showcasing moments captured through the lens of my DSLR and drone. Digital photography has long been a hobby of mine. 
 </p>
 
 <div class="gallery">

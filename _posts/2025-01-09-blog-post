@@ -1,0 +1,94 @@
+---
+title: 'Exploring PySpark: A Practice Session with Big Data'
+date: 2025-01-09
+permalink: /posts/2025/01/exploring-pyspark/
+tags:
+  - Batch Processing
+  - Performance Optimization
+  - Data Processing
+  - Machine Learning
+  - API Efficiency
+  - Embeddings
+  - OpenAI
+  - Cloud Computing
+summary: 'Exploring the significant performance benefits of batch processing over single processing through a real-world example of generating text embeddings with OpenAI's API. This post highlights how small optimizations can lead to massive efficiency gains in data processing and machine learning tasks.'
+---
+
+### Batch Processing: Comparing Performance
+
+I wanted to highlight the potential efficiency improvements using batch processing. To do this, I'll focus on a real-world example of generating text embeddings using OpenAI's API. I'll assume you're already familar with the concept of text embeddings. There are plenty of other helpful resources to learn about embeddings. For helpful context and a brief background...
+
+#### What Are Embeddings?
+Embeddings are numerical representations of text that capture its semantic meaning. These representations are used in various applications, from recommendation systems to natural language understanding. One problem is that generating embeddings can be computationally expensive, especially when dealing with large datasets. This is where the concept of batch processing comes into play.
+
+#### The Experiment
+I compared two approaches to generating embeddings for 1,500 text samples:
+
+1. **Single Processing:** Generating embeddings one by one.
+2. **Batch Processing:** Generating embeddings in batches of 500.
+
+Below is a simplified Python script used for the experiment:
+
+```python
+import time
+import pandas as pd
+from openai import OpenAI
+
+# Function to get a single embedding
+def get_embedding(text_to_embed):
+    client = OpenAI(api_key=OPENAI_API_KEY)
+    response = client.embeddings.create(
+        input=str(text_to_embed),
+        model="text-embedding-3-large",
+        dimensions=1000 # large: up to 3072 dimensions
+    )
+    return response.data[0].embedding
+
+# Function to get embeddings in batch
+def get_embeddings_batch(texts_to_embed, model="text-embedding-3-large"):
+    client = OpenAI(api_key=OPENAI_API_KEY)
+    response = client.embeddings.create(
+        input=[str(text) for text in texts_to_embed],
+        model=model,
+        dimensions=1000 # large: up to 3072 dimensions
+    )
+    return [item.embedding for item in response.data]
+
+# Measure performance for single processing
+start_time_single = time.time()
+df_sample["embedding_single"] = df_sample["headline"].astype(str).apply(get_embedding)
+end_time_single = time.time()
+single_time = end_time_single - start_time_single
+
+# Measure performance for batch processing
+batch_size = 500
+all_embeddings = []
+start_time_batch = time.time()
+for i in range(0, len(df_sample), batch_size):
+    batch_texts = df_sample["headline"].iloc[i:i+batch_size].tolist()
+    batch_embeddings = get_embeddings_batch(batch_texts)
+    all_embeddings.extend(batch_embeddings)
+end_time_batch = time.time()
+batch_time = end_time_batch - start_time_batch
+```
+
+#### Results
+Here are the results of the experiment:
+
+- **Single Processing Time:** 652.29 seconds
+- **Batch Processing Time:** 4.54 seconds
+- **Performance Improvement:** Batch processing was **143.58x faster** than single processing.
+
+#### Why Batch Processing Is Faster
+When generating embeddings one by one, each request incurs an overhead due to network latency and API initialization. So much of the processing time is spent just on network calls alone. Contrast that with, batch processing, which minimizes this overhead by sending multiple texts in a single request. This not only reduces the number of network calls but also leverages the API’s capability to handle bulk operations efficiently. Additionally, many providers discount batch processing compared to single processing so it also can be cheaper.
+
+Keep batch processing in mind if you find yourself needing to process large amounts of information. 
+
+#### Takeaways
+1. **Efficiency Gains:** Batch processing significantly reduces the time needed for tasks involving large datasets.
+2. **Cost Savings:** By completing tasks faster, you can save on computational costs, especially when using cloud-based APIs that charge based on usage.
+3. **Scalability:** Batch processing enables your system to handle larger datasets without proportional increases in processing time.
+
+#### Conclusion
+In data science and machine learning, small optimizations can lead to massive gains. Whenever possible, use batch processing to improve performance, reduce costs, and enhance scalability. This simple adjustment can make a world of difference in real-world applications.
+

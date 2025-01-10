@@ -12,7 +12,7 @@ redirect_from:
 I specialize in **machine learning**, **natural language processing**, and **retrieval-augmented generation (RAG)** techniques. My work often involves leveraging **large language models (LLMs)** to solve complex business challenges and uncover actionable insights.
 
 ### **Photography**
-I create vivid imagery through **DSLR and drone photography**, focusing on **landscapes**, **urban environments**, and **creative storytelling**. My goal is to bring unique perspectives to life.
+I create vivid imagery through **DSLR and drone photography**, focusing on **landscapes**, **urban environments**, and **creative storytelling**. I do this as a creative outlet and personal hobby. I also enjoy the gadget aspect of a digital camera and photo-editing tools.
 
 ---
 

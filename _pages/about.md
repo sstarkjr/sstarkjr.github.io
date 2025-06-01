@@ -12,7 +12,7 @@ redirect_from:
 I specialize in **machine learning**, **natural language processing**, and **retrieval-augmented generation (RAG)** techniques. My work often involves leveraging **large language models (LLMs)** to solve complex business challenges and uncover actionable insights.
 
 ### **Photography**
-I create vivid imagery through **DSLR and drone photography**, focusing on **landscapes**, **urban environments**, and **creative storytelling**. I do this as a creative outlet and personal hobby. I also enjoy the gadget aspect of a digital camera and photo-editing tools.
+I take photos as a creative hobby, mostly using my DSLR and drone. I’m drawn to landscapes, city scenes, and anything with a strong visual story. I like the mix of tech and creativity — shooting, editing, and figuring out how to get the shot just right. It’s a fun way to explore and unwind.
 
 ---
 
@@ -23,7 +23,7 @@ I create vivid imagery through **DSLR and drone photography**, focusing on **lan
   Extracted insights from 3,000 reviews using cutting-edge LLMs. Explore how AI can revolutionize customer feedback analysis.
 
 ### **Photography**
-- **[View MyPhotography](../photography/)**  
+- **[View My Photography](../photography/)**  
   Explore my curated collection of favorite shots, from the serene beauty of **frozen Lake Michigan** to the vibrant sunsets of **Captiva Island**.
 
 ---

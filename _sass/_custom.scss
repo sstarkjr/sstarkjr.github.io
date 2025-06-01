@@ -56,3 +56,24 @@
     color: black;
   }
   
+  /* Styling for Blog Intro */
+  .blog-intro {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #2c3e50;
+    border-radius: 5px;
+  }
+
+  .blog-intro h2 {
+    margin: 0 0 10px;
+    font-size: 24px;
+    color: #2c3e50;
+  }
+
+  .blog-intro p {
+    margin: 0;
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+  }

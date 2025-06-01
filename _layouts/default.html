@@ -17,6 +17,16 @@ layout: compress
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+    
+    <!-- Introductory Blurb for Blog Section -->
+    {% if page.title == "Blog" %}
+    <div class="blog-intro">
+      <h2>Blog Posts</h2>
+      <p>Welcome to my blog! Here, I share insights, tutorials, and real-world applications of data science and machine learning, along with lessons learned from personal projects and industry experience. Explore posts that cover topics from batch processing optimizations to hands-on PySpark sessions and beyond.</p>
+    </div>
+    {% endif %}
+
+    <!-- Main Content -->    
 
     {{ content }}
 

@@ -24,7 +24,7 @@ I take photos as a creative hobby, mostly using my DSLR and drone. I’m drawn t
 
 ### **Photography**
 - **[View My Photography](../photography/)**  
-  Explore my curated collection of favorite shots, from the serene beauty of **frozen Lake Michigan** to the vibrant sunsets of **Captiva Island**.
+  Random assortment of some of my favorite shots.
 
 ---
 
@@ -34,7 +34,7 @@ I’m always open to collaboration and sharing ideas! Feel free to connect with 
 - **[Medium Blog](https://medium.com/@stephensaidso)**  
 <!-- Add LinkedIn or GitHub links if desired -->
 <!-- - **LinkedIn**: [Your LinkedIn Profile](#) -->
-<!-- - **GitHub**: [Your GitHub Profile](#) -->
+- **GitHub**: [https://github.com/sstarkjr](#)
 
 ---
 
@@ -46,4 +46,3 @@ If you're interested in creating a similar site, explore the [Academic Pages Git
 
 ---
 
-Thank you for visiting my website – I look forward to sharing more of my journey with you!

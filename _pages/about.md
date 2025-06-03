@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-## **What I Do**
-### **Data Science & AI**
-I specialize in **machine learning**, **natural language processing**, and **retrieval-augmented generation (RAG)** techniques. My work often involves leveraging **large language models (LLMs)** to solve complex business challenges and uncover actionable insights.
+### **Data Science | AI | Corporate Strategy**
+My work spans analytics, data science, and corporate strategy. I specialize in **machine learning**, **natural language processing**, and **enterprise-grade generative ai** techniques. My work often involves leveraging **large language models (LLMs)** to solve complex business challenges and uncover actionable insights -- at the intersection of analytics and corporate strategy.
 
 ### **Photography**
-I take photos as a creative hobby, mostly using my DSLR and drone. I’m drawn to landscapes, city scenes, and anything with a strong visual story. I like the mix of tech and creativity — shooting, editing, and figuring out how to get the shot just right. It’s a fun way to explore and unwind.
+I take photos as a creative hobby—usually with my DSLR or drone. I gravitate toward landscapes, city scenes, and anything with a strong visual story. I like the mix of tech and creativity—shooting, editing, figuring out how to get the shot just right, and testing out whatever gear helps me get there. It’s a fun way to explore and unwind.
 
----
 
 ## **Featured Work**
 

@@ -8,4 +8,5 @@ Below is a running list of potential topics for future posts. Feel free to add, 
 - Using analytics to drive corporate strategy
 - Best practices for large language model deployment
 - Mixing photography and data visualization
+- TripAdvisor Hotel Reviews Topic Analysis (llm topic generation, clustering, embeddings, tf-idf, ... etc.)
 

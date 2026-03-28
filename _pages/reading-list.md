@@ -14,6 +14,9 @@ A running list of articles, papers, and resources I've found worth reading. Grou
 - **[Building Confidence: A Case Study in How to Create Confidence Scores for GenAI Applications](https://engineering.atspotify.com/2024/12/building-confidence-a-case-study-in-how-to-create-confidence-scores-for-genai-applications)** — Spotify Engineering
   Practical approach to attaching reliability signals to LLM outputs in production. Useful for anyone moving GenAI beyond the demo stage.
 
+- **[7 Mistakes People Make When Trying to Become an AI Engineer](https://www.youtube.com/watch?v=nvc7xi6vZWw)** — YouTube
+  Common pitfalls when breaking into AI engineering — why grinding through courses often stalls progress and what to do instead.
+
 - **[Patterns for Building LLM-based Systems & Products](#)** — Eugene Yan
   One of the best practical overviews of LLM system design — evals, retrieval, agents, and more. Reference-level writing.
 

@@ -25,7 +25,7 @@ author:
   avatar           : "updated_profile.jpeg" # "profile.png"
   name             : "Stephen Stark"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Data Scientist"
+  bio              : "Senior Data Scientist. Building production AI systems at scale."
   location         : "Chicago, IL"
   employer         : 
   uri              : # URL

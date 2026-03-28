@@ -37,6 +37,30 @@ I shoot with a DSLR and a DJI drone — mostly landscapes, cityscapes, and anyth
     <p>Chicago skyline, subzero temperatures</p>
     <span class="photo-story">Shot during a polar vortex. Steam rising off the lake and a frozen shoreline made for a surreal scene.</span>
   </div>
+
+  <div class="photo">
+    <a href="/images/photography/millennium-park-rink-aerial.jpeg" data-lightbox="gallery" data-title="Millennium Park skating rink, Chicago">
+      <img src="/images/photography/millennium-park-rink-aerial.jpeg" alt="Millennium Park skating rink, Chicago">
+    </a>
+    <p>Millennium Park skating rink, Chicago</p>
+    <span class="photo-story">Straight down over the rink and Crown Fountain in winter. The geometry only reveals itself from above.</span>
+  </div>
+
+  <div class="photo">
+    <a href="/images/photography/frozen-chicago-river.jpeg" data-lightbox="gallery" data-title="Frozen Chicago River">
+      <img src="/images/photography/frozen-chicago-river.jpeg" alt="Frozen Chicago River">
+    </a>
+    <p>Frozen Chicago River</p>
+    <span class="photo-story">Ice chunks filling the river looking south toward Trump Tower. January 2025.</span>
+  </div>
+
+  <div class="photo">
+    <a href="/images/photography/frozen-chicago-river-bw.jpeg" data-lightbox="gallery" data-title="Frozen Chicago River — Black &amp; White">
+      <img src="/images/photography/frozen-chicago-river-bw.jpeg" alt="Frozen Chicago River, black and white">
+    </a>
+    <p>Frozen Chicago River — B&amp;W</p>
+    <span class="photo-story">Same scene, different mood. The monochrome pulls out the texture of the ice in a way color doesn't.</span>
+  </div>
 </div>
 
 ---

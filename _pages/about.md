@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+*Trying to keep up in a field that reinvents itself every six months — and figuring out what's actually useful versus what's just the shiny new toy.*
+
+---
+
 ### **Data Science | AI | Corporate Strategy**
 
 I'm a Senior Data Scientist with experience building enterprise-scale machine learning and generative AI systems across e-commerce, legal, and marketing. As a founding member of a company's data science function, I've led the design and deployment of production AI applications — including **patent-pending AI systems**, LLM-powered document intelligence pipelines, and large-scale NLP systems analyzing hundreds of thousands of customer interactions.

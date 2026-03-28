@@ -42,6 +42,13 @@ Moving beyond the basics — sequential testing, stopping rules, and how to run 
 
 ---
 
+## Strategy & Geospatial Analysis
+
+**Be Where Your Competitors Are: Using Location Data to Drive Retail Strategy**
+Scraping publicly available competitor store locator data to map retail footprints, identify geographic gaps, and surface expansion opportunities. The idea: if your competitors are already in a market, that's a signal the demand is there — so be where they are. Covers web scraping, geocoding, clustering, and visualization on a map.
+
+---
+
 ## Data Engineering & Tools
 
 **PySpark MLlib: Predictive Modeling at Scale**

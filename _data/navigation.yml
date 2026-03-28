@@ -29,6 +29,9 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
+  - title: "Reading List"
+    url: /reading-list/
+
   - title: "Photography"
     url: /photography/
 

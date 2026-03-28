@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Stephen's Analytics Blog"
+title                    : "Stephen Stark — AI Engineering & Data Science"
 title_separator          : "-"
 name                     : &name "Stephen Stark"
 description              : &description "Senior Data Scientist | Machine Learning, NLP, and Generative AI"

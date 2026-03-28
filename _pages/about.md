@@ -33,6 +33,13 @@ I take photos as a creative hobby—usually with my DSLR or drone. I gravitate t
 
 ---
 
+## **More**
+
+- **[Uses & Tools](/uses/)** — the stack I work with day to day
+- **[Speaking & Appearances](/speaking/)** — panels and talks
+
+---
+
 ## **Let’s Connect**
 
 I’m always open to collaboration and sharing ideas! Feel free to reach out via:

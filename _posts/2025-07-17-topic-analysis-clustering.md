@@ -126,6 +126,3 @@ Together, the result is more **interpretable**, **scalable**, and **practical** 
 * Tracking customer themes over time
 
 ---
-
-Let me know if you'd like help writing a conclusion, generating the UMAP visualization, or preparing this for publishing (e.g. adding alt text, SEO-friendly titles, or image assets).
-

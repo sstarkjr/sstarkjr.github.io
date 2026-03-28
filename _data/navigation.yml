@@ -22,7 +22,10 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
+
+  - title: "In the Pipeline"
+    url: /pipeline/
+
   # - title: "CV_Changed"
   #   url: /cv/
     

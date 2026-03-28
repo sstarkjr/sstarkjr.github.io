@@ -6,82 +6,84 @@ permalink: /photography/
 ---
 
 # Photography
-<h2 class="intro-title">Welcome to My Photography</h2>
 
-<p class="intro-text">
-Photography has always been one of my favorite ways to explore and document the world around me. Whether by drone or by DSLR, digital photography has long been a hobby of mine. Below are some of my favorite moments I've captured.
-</p>
+I shoot with a DSLR and a DJI drone — mostly landscapes, cityscapes, and anything with interesting light or geometry. Below are some favorites.
+
+---
+
+<p class="gallery-section-title">Aerial</p>
 
 <div class="gallery">
-  <!-- Photo 1 -->
   <div class="photo">
-    <a href="/images/photography/DJI_0946.jpg" data-lightbox="gallery" data-title="Sunset over the ocean">
-      <img class="photography-image" src="/images/photography/DJI_0946.jpg" alt="Sunset over the ocean">
+    <a href="/images/photography/DJI_0946.jpg" data-lightbox="gallery" data-title="Sunset over Miami Beach">
+      <img src="/images/photography/DJI_0946.jpg" alt="Sunset over Miami Beach">
     </a>
-    <p>Sunset over the ocean, Miami Beach, FL</p>
+    <p>Sunset over Miami Beach, FL</p>
+    <span class="photo-story">f/8 · 1/200s · ISO 100 — A peaceful evening over the Atlantic. The passerby adds a sense of scale I didn't plan for.</span>
   </div>
 
-  <!-- Photo 2 -->
+  <div class="photo">
+    <a href="/images/photography/DJI_0864.jpg" data-lightbox="gallery" data-title="Ice pancakes on a frozen Lake Michigan">
+      <img src="/images/photography/DJI_0864.jpg" alt="Ice pancakes on a frozen Lake Michigan">
+    </a>
+    <p>Ice pancakes, Lake Michigan</p>
+    <span class="photo-story">A rare winter phenomenon — disc-shaped ice formations that only appear under specific wave and temperature conditions.</span>
+  </div>
+
+  <div class="photo">
+    <a href="/images/photography/frozen_chicago.jpeg" data-lightbox="gallery" data-title="Chicago skyline at subzero temperatures">
+      <img src="/images/photography/frozen_chicago.jpeg" alt="Chicago skyline at subzero temperatures">
+    </a>
+    <p>Chicago skyline, subzero temperatures</p>
+    <span class="photo-story">Shot during a polar vortex. Steam rising off the lake and a frozen shoreline made for a surreal scene.</span>
+  </div>
+</div>
+
+---
+
+<p class="gallery-section-title">Ground</p>
+
+<div class="gallery">
   <div class="photo">
     <a href="/images/photography/captiva-pano.jpg" data-lightbox="gallery" data-title="Captiva Island, Florida">
-      <img class="photography-image" src="/images/photography/captiva-pano.jpg" alt="Captiva Island, Florida">
+      <img src="/images/photography/captiva-pano.jpg" alt="Captiva Island, Florida">
     </a>
-    <p>Panoramic Photo, Captiva Island, Florida</p>
+    <p>Captiva Island, FL — Panoramic</p>
   </div>
 
-  <!-- Photo 3 -->
   <div class="photo">
-    <a href="/images/photography/DJI_0864.jpg" data-lightbox="gallery" data-title="Ice 'pancakes' on a frozen Lake Michigan">
-      <img class="photography-image" src="/images/photography/DJI_0864.jpg" alt="Ice 'pancakes' on a frozen Lake Michigan">
+    <a href="/images/photography/DSC_3713-Edit-Edit.jpeg" data-lightbox="gallery" data-title="Silhouettes at sunrise, Hancock Center, Chicago">
+      <img src="/images/photography/DSC_3713-Edit-Edit.jpeg" alt="Silhouettes at sunrise, Hancock Center, Chicago">
     </a>
-    <p>Ice 'pancakes' on a frozen Lake Michigan</p>
+    <p>Silhouettes at sunrise, Hancock Center, Chicago</p>
   </div>
 
-  <!-- Photo 4 -->
   <div class="photo">
-    <a href="/images/photography/DSC_9695.jpg" data-lightbox="gallery" data-title="Cloud Gate (The Bean) in Chicago">
-      <img class="photography-image" src="/images/photography/DSC_9695.jpg" alt="Cloud Gate (The Bean) in Chicago">
+    <a href="/images/photography/IMG_3465.jpeg" data-lightbox="gallery" data-title="Camera at sunrise, Hancock Center, Chicago">
+      <img src="/images/photography/IMG_3465.jpeg" alt="Camera at sunrise, Hancock Center, Chicago">
     </a>
-    <p>Cloud Gate (The Bean) in Chicago</p>
+    <p>Camera at sunrise, Hancock Center, Chicago</p>
   </div>
 
-  <!-- Photo 5 -->
   <div class="photo">
-    <a href="/images/photography/IMG_0730-1.jpg" data-lightbox="gallery" data-title="Close-up of a vibrant green leaf">
-      <img class="photography-image" src="/images/photography/IMG_0730-1.jpg" alt="Close-up of a vibrant green leaf">
+    <a href="/images/photography/DSC_9695.jpg" data-lightbox="gallery" data-title="Cloud Gate (The Bean), Chicago">
+      <img src="/images/photography/DSC_9695.jpg" alt="Cloud Gate (The Bean), Chicago">
     </a>
-    <p>Close-up of a vibrant green leaf</p>
+    <p>Cloud Gate (The Bean), Chicago</p>
   </div>
 
-  <!-- Photo 6 -->
-  <div class="photo">
-    <a href="/images/photography/IMG_3465.jpeg" data-lightbox="gallery" data-title="Camera capturing sunrise from the Hancock, Chicago">
-      <img class="photography-image" src="/images/photography/IMG_3465.jpeg" alt="Camera capturing sunrise from the Hancock, Chicago">
-    </a>
-    <p>Camera capturing sunrise from the Hancock, Chicago</p>
-  </div>
-
-  <!-- Photo 7 -->
-  <div class="photo">
-    <a href="/images/photography/DSC_3713-Edit-Edit.jpeg" data-lightbox="gallery" data-title="Silhouettes and sunrise at the Hancock, Chicago">
-      <img class="photography-image" src="/images/photography/DSC_3713-Edit-Edit.jpeg" alt="Silhouettes and sunrise at the Hancock, Chicago">
-    </a>
-    <p>Silhouettes and sunrise at the Hancock, Chicago</p>
-  </div>
-
-  <!-- Additional Photo 8 -->
   <div class="photo">
     <a href="/images/photography/DSC_0528_adj.jpeg" data-lightbox="gallery" data-title="Train tracks outside Marfa, Texas">
-      <img class="photography-image" src="/images/photography/DSC_0528_adj.jpeg" alt="Train tracks outside Marfa, Texas">
+      <img src="/images/photography/DSC_0528_adj.jpeg" alt="Train tracks outside Marfa, Texas">
     </a>
-    <p>Train tracks outside Marfa, Texas</p>
+    <p>Train tracks outside Marfa, TX</p>
+    <span class="photo-story">Marfa has a strange, quiet energy. These tracks felt like they went nowhere and everywhere at once.</span>
   </div>
 
-  <!-- Additional Photo 9 -->
   <div class="photo">
-    <a href="/images/photography/frozen_chicago.jpeg" data-lightbox="gallery" data-title="Subzero temps: Aerial shot of Chicago’s skyline">
-      <img class="photography-image" src="/images/photography/frozen_chicago.jpeg" alt="Subzero temps: Aerial shot of Chicago’s skyline">
+    <a href="/images/photography/IMG_0730-1.jpg" data-lightbox="gallery" data-title="Leaf close-up">
+      <img src="/images/photography/IMG_0730-1.jpg" alt="Leaf close-up">
     </a>
-    <p>Subzero temps: Aerial shot of Chicago’s skyline</p>
+    <p>Leaf close-up</p>
   </div>
 </div>

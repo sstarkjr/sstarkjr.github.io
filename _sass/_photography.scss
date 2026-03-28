@@ -1,50 +1,50 @@
-.photography-image {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    border: 2px solid #ccc; /* Example: Add a border to photography images */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Example: Add a shadow */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+  gap: 28px;
+  margin-top: 1.5em;
 }
 
-.gallery {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 16px;
-    justify-content: center;
-  
-    .photo {
-      width: 300px;
-      text-align: center;
-  
-      img {
-        width: 100%;
-        height: auto;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      }
-  
-      p {
-        margin-top: 8px;
-        font-size: 16px;
-        color: #555;
-      }
-    }
-  }
-  
-  .photo img {
+.photo {
+  text-align: center;
+
+  img {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-  
+    display: block;
+
     &:hover {
-      transform: scale(1.05);
-      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+      transform: scale(1.02);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
     }
   }
-  
-  .photo p {
-    margin-top: 8px;
+
+  p {
+    margin-top: 10px;
     font-size: 14px;
-    color: #888;
+    color: #666;
     font-style: italic;
   }
-  
+
+  .photo-story {
+    display: block;
+    margin-top: 4px;
+    font-size: 13px;
+    color: #999;
+    font-style: normal;
+    line-height: 1.5;
+  }
+}
+
+.gallery-section-title {
+  font-size: 1.3em;
+  font-weight: 600;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3em;
+}

@@ -43,7 +43,7 @@ I shoot with a DSLR and a DJI drone — mostly landscapes, cityscapes, and anyth
       <img src="/images/photography/millennium-park-rink-aerial.jpeg" alt="Millennium Park skating rink, Chicago">
     </a>
     <p>Millennium Park skating rink, Chicago</p>
-    <span class="photo-story">Straight down over the rink and Crown Fountain in winter. The geometry only reveals itself from above.</span>
+    <span class="photo-story">f/2.8 · 1/120s · ISO 100 · ~330ft — January 2022. Straight down over the rink and Crown Fountain. The geometry only reveals itself from above.</span>
   </div>
 
   <div class="photo">
@@ -51,7 +51,7 @@ I shoot with a DSLR and a DJI drone — mostly landscapes, cityscapes, and anyth
       <img src="/images/photography/frozen-chicago-river.jpeg" alt="Frozen Chicago River">
     </a>
     <p>Frozen Chicago River</p>
-    <span class="photo-story">Ice chunks filling the river looking south toward Trump Tower. January 2025.</span>
+    <span class="photo-story">f/2.8 · 1/400s · ISO 100 · ~50ft above the river — January 25, 2025. Ice chunks filling the river looking south toward Trump Tower.</span>
   </div>
 
   <div class="photo">
@@ -59,7 +59,7 @@ I shoot with a DSLR and a DJI drone — mostly landscapes, cityscapes, and anyth
       <img src="/images/photography/frozen-chicago-river-bw.jpeg" alt="Frozen Chicago River, black and white">
     </a>
     <p>Frozen Chicago River — B&amp;W</p>
-    <span class="photo-story">Same scene, different mood. The monochrome pulls out the texture of the ice in a way color doesn't.</span>
+    <span class="photo-story">Same shot, different mood. The monochrome pulls out the texture of the ice in a way color doesn't. 46MP native, shot on the Hasselblad L2D-20c.</span>
   </div>
 </div>
 

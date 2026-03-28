@@ -11,6 +11,11 @@ Posts and projects I'm actively thinking about or planning to write up. No guara
 
 ## Generative AI & LLMs
 
+**Executive Compensation Extraction from SEC Proxy Filings**
+Using LLMs to extract structured executive compensation data from DEF 14A proxy filings on SEC EDGAR. The goal: input a ticker, get back the top 5 highest-paid executives, their compensation mix (base, bonus, equity, other), and annualized total. Proxy filings are long, messy, and inconsistently formatted — a good test of schema-enforced LLM extraction at scale. Draws on my background in executive compensation consulting.
+
+
+
 **Confidence Scores for GenAI Applications**
 Inspired by Spotify Engineering's approach to attaching reliability signals to LLM outputs. Want to apply similar techniques to my own datasets and document what works in practice.
 

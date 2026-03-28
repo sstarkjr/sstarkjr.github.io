@@ -49,6 +49,9 @@ Moving beyond the basics — sequential testing, stopping rules, and how to run 
 
 ## Strategy & Geospatial Analysis
 
+**TAM Estimation from Retail Door Count Analysis**
+Estimating total addressable market (TAM) for a product category by counting and mapping retail doors — the number of physical store locations that carry or could carry a product. Using publicly available retailer location data to size a market, identify underpenetrated geographies, and inform sales and distribution strategy. The same methodology used to influence real wholesale retail decisions, generalized to a public dataset.
+
 **Be Where Your Competitors Are: Using Location Data to Drive Retail Strategy**
 Scraping publicly available competitor store locator data to map retail footprints, identify geographic gaps, and surface expansion opportunities. The idea: if your competitors are already in a market, that's a signal the demand is there — so be where they are. Covers web scraping, geocoding, clustering, and visualization on a map.
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Photography"
 author_profile: true
 permalink: /photography/

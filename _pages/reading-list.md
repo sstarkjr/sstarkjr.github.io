@@ -11,7 +11,7 @@ A running list of articles, papers, and resources I've found worth reading. Grou
 
 ## Generative AI & LLMs
 
-- **[Building Confidence: A Case Study in How to Create Confidence Scores for GenAI Applications](#)** — Spotify Engineering
+- **[Building Confidence: A Case Study in How to Create Confidence Scores for GenAI Applications](https://engineering.atspotify.com/2024/12/building-confidence-a-case-study-in-how-to-create-confidence-scores-for-genai-applications)** — Spotify Engineering
   Practical approach to attaching reliability signals to LLM outputs in production. Useful for anyone moving GenAI beyond the demo stage.
 
 - **[Patterns for Building LLM-based Systems & Products](#)** — Eugene Yan
@@ -36,6 +36,9 @@ A running list of articles, papers, and resources I've found worth reading. Grou
 ---
 
 ## NLP & Topic Modeling
+
+- **[Unlocking Insights from Qualitative Text with LLM-Enhanced Topic Modeling](https://www.amazon.science/blog/unlocking-insights-from-qualitative-text-with-llm-enhanced-topic-modeling)** — Amazon Science
+  Amazon's approach to combining LLMs with topic modeling for qualitative text analysis. Closely related to the embedding + clustering pipeline I've used on customer review data.
 
 - **[BERTopic: Neural topic modeling with BERT](#)** — Maarten Grootendorst
   The paper behind a library I use regularly. Explains the UMAP + HDBSCAN + class-based TF-IDF pipeline clearly.

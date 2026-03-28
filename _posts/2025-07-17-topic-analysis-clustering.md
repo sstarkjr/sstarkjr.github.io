@@ -2,7 +2,6 @@
 title: "Discovering Topics in Text with Clustering and Embeddings"
 date: 2025-07-17
 permalink: /posts/2025/07/topic-analysis-clustering/
-published: false
 tags:
   - NLP
   - embeddings

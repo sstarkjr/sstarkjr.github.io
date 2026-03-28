@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Stephen's Analytics Blog"
 title_separator          : "-"
 name                     : &name "Stephen Stark"
-description              : &description "personal description"
+description              : &description "Senior Data Scientist | Machine Learning, NLP, and Generative AI"
 url                      : https://sstarkjr.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sstarkjr/sstarkjr.github.io"
@@ -67,7 +67,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # https://medium.com/@stephensaidso
+  medium           : "https://medium.com/@stephensaidso"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username

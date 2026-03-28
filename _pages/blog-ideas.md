@@ -1,6 +1,7 @@
 ---
 title: "Future Blog Post Ideas"
 permalink: /blog-ideas/
+published: false
 ---
 
 Below is a running list of potential topics for future posts. Feel free to add, remove, or reorganize items as new ideas come up.

@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 ### **Data Science | AI | Corporate Strategy**
-My work spans analytics, data science, and corporate strategy. I specialize in **machine learning**, **natural language processing**, and **enterprise-grade generative ai** techniques. My work often involves leveraging **large language models (LLMs)** to solve complex business challenges and uncover actionable insights -- at the intersection of analytics and corporate strategy.
+
+I'm a Senior Data Scientist with experience building enterprise-scale machine learning and generative AI systems across e-commerce, legal, and marketing. As a founding member of a company's data science function, I've led the design and deployment of production AI applications — including **patent-pending AI systems**, LLM-powered document intelligence pipelines, and large-scale NLP systems analyzing hundreds of thousands of customer interactions.
+
+I specialize in translating ambiguous business problems into production AI systems — drawing on a background that spans data science, management consulting, and finance. I hold an **M.S. in Applied Data Science from the University of Chicago** (GPA: 3.98/4.0).
 
 ### **Photography**
 I take photos as a creative hobby—usually with my DSLR or drone. I gravitate toward landscapes, city scenes, and anything with a strong visual story. I like the mix of tech and creativity—shooting, editing, figuring out how to get the shot just right, and testing out whatever gear helps me get there. It’s a fun way to explore and unwind.
@@ -28,18 +31,9 @@ I take photos as a creative hobby—usually with my DSLR or drone. I gravitate t
 
 ## **Let’s Connect**
 
-I’m always open to collaboration and sharing ideas! Feel free to connect with me via:
-- **[Medium Blog](https://medium.com/@stephensaidso)**  
-<!-- Add LinkedIn or GitHub links if desired -->
-<!-- - **LinkedIn**: [Your LinkedIn Profile](#) -->
-- **GitHub**: [https://github.com/sstarkjr](#)
+I’m always open to collaboration and sharing ideas! Feel free to reach out via:
+- **[Medium](https://medium.com/@stephensaidso)** — where I write about data science, AI, and analytics
+- **[GitHub](https://github.com/sstarkjr)** — code and projects
 
 ---
 
-## **About This Website**
-
-This website is built using the **[Academic Pages template](https://github.com/academicpages/academicpages.github.io)**, a flexible and feature-rich Jekyll theme originally based on the **Minimal Mistakes Jekyll Theme** by Michael Rose. It is hosted for free on **GitHub Pages**, which automatically generates the site from structured markdown files and code stored in a GitHub repository.
-
-If you're interested in creating a similar site, explore the [Academic Pages GitHub repository](https://github.com/academicpages/academicpages.github.io) for setup instructions and customization options.
-
----

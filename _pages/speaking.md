@@ -16,4 +16,4 @@ Topics covered:
 - What program attributes had the most lasting impact
 - Advice for incoming and current students navigating the transition from academia to industry
 
-*Panelists: Stephen Stark, Tyler Roth, Kejia Ran*
+*One of three alumni panelists representing industry data science roles.*

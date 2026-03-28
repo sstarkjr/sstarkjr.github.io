@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a Senior Data Scientist with experience building enterprise-scale machine learning and generative AI systems across e-commerce, legal, and marketing. As a founding member of a company's data science function, I've led the design and deployment of production AI applications — including **patent-pending AI systems**, LLM-powered document intelligence pipelines, and large-scale NLP systems analyzing hundreds of thousands of customer interactions.
 
-I specialize in translating ambiguous business problems into production AI systems — drawing on a background that spans data science, management consulting, and finance. I hold an **M.S. in Applied Data Science from the University of Chicago** (GPA: 3.98/4.0).
+I specialize in translating ambiguous business problems into production AI systems — drawing on a background that spans data science, management consulting, and finance. I hold an **M.S. in Applied Data Science from the University of Chicago**.
 
 ### **Photography**
 I take photos as a creative hobby—usually with my DSLR or drone. I gravitate toward landscapes, city scenes, and anything with a strong visual story. I like the mix of tech and creativity—shooting, editing, figuring out how to get the shot just right, and testing out whatever gear helps me get there. It’s a fun way to explore and unwind.

@@ -5,8 +5,6 @@ author_profile: true
 permalink: /photography/
 ---
 
-# Photography
-
 I shoot with a DSLR and a DJI drone — mostly landscapes, cityscapes, and anything with interesting light or geometry. Below are some favorites.
 
 ---

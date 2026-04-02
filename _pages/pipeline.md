@@ -11,19 +11,11 @@ Posts and projects I'm actively thinking about or planning to write up. No guara
 
 ## Generative AI & LLMs
 
-**Executive Compensation Extraction from SEC Proxy Filings**
-Using LLMs to extract structured executive compensation data from DEF 14A proxy filings on SEC EDGAR. The goal: input a ticker, get back the top 5 highest-paid executives, their compensation mix (base, bonus, equity, other), and annualized total. Proxy filings are long, messy, and inconsistently formatted — a good test of schema-enforced LLM extraction at scale. Draws on my background in executive compensation consulting.
+**Document Intelligence Pipeline: Executive Compensation from SEC Proxy Filings**
+Building a structured extraction pipeline on top of public SEC DEF 14A proxy filings using schema-enforced LLM outputs. The goal: input a ticker, get back the top 5 highest-paid executives, their full compensation mix (base, bonus, equity, other), and annualized total. Proxy filings are long, messy, and inconsistently formatted — a real test of document intelligence at scale. Draws on my background in executive compensation consulting at Mercer.
 
-
-
-**Confidence Scores for GenAI Applications**
-Inspired by Spotify Engineering's approach to attaching reliability signals to LLM outputs. Want to apply similar techniques to my own datasets and document what works in practice.
-
-**Document Intelligence Pipeline**
-Building a structured extraction pipeline on top of public documents — likely SEC filings or patent applications — using schema-enforced LLM outputs. A natural extension of the RAG work I've done, but focused on producing clean, queryable structured data rather than free-form answers.
-
-**LLM Output Evaluation in Practice**
-How do you actually know if your LLM pipeline is working well? Moving beyond vibes-based evaluation toward systematic approaches: evals, regression testing, and monitoring in production.
+**LLM Reliability: Confidence Scores and Output Evaluation**
+How do you actually know if your LLM pipeline is working well? Covers two related problems: attaching confidence scores to individual outputs (inspired by Spotify Engineering's approach), and building systematic evaluation frameworks — evals, regression testing, and production monitoring. Moving beyond vibes-based assessment toward something measurable.
 
 ---
 
@@ -49,11 +41,8 @@ Moving beyond the basics — sequential testing, stopping rules, and how to run 
 
 ## Strategy & Geospatial Analysis
 
-**TAM Estimation from Retail Door Count Analysis**
-Estimating total addressable market (TAM) for a product category by counting and mapping retail doors — the number of physical store locations that carry or could carry a product. Using publicly available retailer location data to size a market, identify underpenetrated geographies, and inform sales and distribution strategy. The same methodology used to influence real wholesale retail decisions, generalized to a public dataset.
-
-**Be Where Your Competitors Are: Using Location Data to Drive Retail Strategy**
-Many brand "find a retailer" pages are powered by a common third-party API (Locally). By inspecting network requests and reverse-engineering the API, you can systematically tile across North America using lat/lon increments to pull every authorized retailer for a given brand. Deduplicate the results, do it for multiple competing brands, and map the overlap using Folium or Leaflet. The output: a prioritized lead list of retailers that carry competitors but not your brand — a ready-made sales prospecting tool. Built entirely in Python.
+**Retail Expansion Intelligence: TAM Estimation & Competitive Lead Generation**
+A two-part project using publicly available location data to drive wholesale retail strategy. Part one: estimate total addressable market (TAM) for a product category by counting and mapping retail doors — identifying underpenetrated geographies and sizing the opportunity. Part two: reverse-engineer the Locally API (the backend powering most brand "find a retailer" pages) to systematically pull authorized retailer locations for competing brands across North America, map the overlap using Folium or Leaflet, and surface a prioritized lead list of retailers that carry competitors but not your brand. Built entirely in Python.
 
 ---
 
